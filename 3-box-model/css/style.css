@@ -26,5 +26,6 @@ figcaption {
 
 img {
     border-radius: 10px;
-    border: 
+    border: 10px solid black;
+    box-sizing: border-box;
 }
